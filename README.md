@@ -1,10 +1,14 @@
 Pre-Reqs
 
-FFMPEG:: https://www.gyan.dev/ffmpeg/builds/ Get the "Full" version. Direct download from here - https://www.gyan.dev/ffmpeg/builds/ffmpeg-git-full.7z
+FFMPEG:: https://www.gyan.dev/ffmpeg/builds/ Get the "Full" version. or you can download directly from this link
+https://www.gyan.dev/ffmpeg/builds/ffmpeg-git-full.7z
 
-PYTHON 3.13:: https://www.python.org/downloads/ or direct download from here - https://www.python.org/ftp/python/3.13.7/python-3.13.7-amd64.exe
+PYTHON 3.13:: https://www.python.org/downloads/ or direct download from this link
+https://www.python.org/ftp/python/3.13.7/python-3.13.7-amd64.exe
 
-7Zip to extract the ffmpeg.7z - Direct link.. Dont click anything just wait for countdown. https://sourceforge.net/projects/sevenzip/files/latest/download
+7Zip to extract the ffmpeg.7z - Direct link.. Dont click anything just wait for countdown. 
+https://sourceforge.net/projects/sevenzip/files/latest/download
+
 
 1) Install python and make sure to allow python to add to PATH in the beginning of the installer.
 2) Create your working folder and extract ffmpeg into that folder.
