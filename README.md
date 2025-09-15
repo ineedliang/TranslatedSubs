@@ -26,10 +26,15 @@ How it works
 
 
 Final output: example using file named test.mp4
+
 _Translate_temp.py - The python script created
+
 test_audio.mp3 - The separated audio track in mp3 format
+
 test_audio.srt - The original language srt subtitle file
+
 test_english.srt - the converted to english subtitle file
+
 test_video.mp4 - The video with no audio
 
 I left all these in the folder to make sure the user knows that it was successful. You can now grab your original file and add the subtitle track (english) and should be good to go..
