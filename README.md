@@ -1,11 +1,16 @@
 Pre-Reqs
+
 FFMPEG:: https://www.gyan.dev/ffmpeg/builds/ Get the "Full" version. Direct download from here - https://www.gyan.dev/ffmpeg/builds/ffmpeg-git-full.7z
+
 PYTHON 3.13:: https://www.python.org/downloads/ or direct download from here - https://www.python.org/ftp/python/3.13.7/python-3.13.7-amd64.exe
+
+7Zip to extract the ffmpeg.7z - Direct link.. Dont click anything just wait for countdown. https://sourceforge.net/projects/sevenzip/files/latest/download
 
 1) Install python and make sure to allow python to add to PATH in the beginning of the installer.
 2) Create your working folder and extract ffmpeg into that folder.
 3) Add This Batch file to the same folder as FFMPEG.EXE
 4) Drag any video file right onto the vidsub.bat
+
 
 How it works 
 1) Batch uses ffmpeg to split out audio/video files
