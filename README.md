@@ -42,7 +42,7 @@ test_english.srt - the converted to english subtitle file
 
 test_video.mp4 - The video with no audio
 
-test_final.mp4 - Puts the video back together
+test_final.mp4 - Puts the video back together - this doesn't seem to fully work.. it will be updated soon..
 
 
 I left all these in the folder to make sure the user knows that it was successful. 
