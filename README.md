@@ -20,13 +20,13 @@ How it works
 1) Batch uses ffmpeg to split out audio/video files
 2) Creates a new folder inside your working folder with the name of the video file. ie.. if your file name is test.mp4, it will create a folder named test inside your working folder.
 3) The split video and audio file will be placed into the new folder.
-4) Batch file will attempt to install tool for python Called Whisper if it has not been previously installed 
+4) Batch file will attempt to install tool for python Called Whisper (if it has not been previously installed)
         (Whisper OpenAI's Whisper is a powerful automatic speech recognition (ASR) model that can be used with Python to transcribe audio into SRT file in combinaton with Deep Translate)
-5) Batch file will attempt to install tool for python Called Deep-Translate if it has not been previously installed
+5) Batch file will attempt to install tool for python Called Deep-Translate (if it has not been previously installed)
         (Deep Translate - translate between different languages in a simple way using multiple translators.)
-6) Batch file will attempt to install tool for python Called Pytorch if is has not been previously installed
+6) Batch file will attempt to install tool for python Called Pytorch (if is has not been previously installed)
         an open-source machine learning library based on the Torch library accelerating processes using cuda cores from Nvidia video card
-7) The batch program will then create a python script that will translate your srt file to english.
+7) The batch program will then create a python script that will translate your srt file (subtitle) to english.
 8) If pytorch fails, batch file will fall back to using cpu which is of course alot slower but still works.
 
 
